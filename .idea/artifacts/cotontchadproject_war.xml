@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cotontchadproject:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="coton--tchad.war">
+      <element id="artifact" artifact-name="cotontchadproject:war exploded" />
+    </root>
+  </artifact>
+</component>
